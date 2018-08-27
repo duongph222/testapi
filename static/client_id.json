@@ -1,0 +1,17 @@
+{
+  "web": {
+    "client_id": "382206116554-al42k25thehfp3200c03eud7hd30gvq8.apps.googleusercontent.com",
+    "project_id": "centered-memory-214307",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://www.googleapis.com/oauth2/v3/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "VIS9Mwi5DDyzNa6KeumZqoxy",
+    "redirect_uris": [
+      "http://localhost:8080",
+      "http://localhost:8080/oauth2callback"
+    ],
+    "javascript_origins": [
+      "http://localhost:8069"
+    ]
+  }
+}
